@@ -1,0 +1,4 @@
+baseURL = "http://innthomasBlog.github.io/"
+languageCode = "en-us"
+title = "Inn Thomas Blog"
+theme = "ananke"
